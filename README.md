@@ -1,7 +1,5 @@
 # SALT-RT
 
-SALT-RT: A PSMA PET-derived anatomo-functional salivary gland atlas for head and neck cancer radiotherapy
-
 This repository contains the data and resources associated with the paper:
 
 SALT-RT: a PET-PSMA anatomo-functional salivary gland atlas enabling tubarial gland sparing in head and neck cancer radiotherapy
